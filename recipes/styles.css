@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 550px;
+}
+
+p, ul, ol {
+    width: 550px;
+    margin: auto;
+    text-align: left;
+    font-size: large;
+}
+
+ol {
+    margin-bottom: 10px;
+}

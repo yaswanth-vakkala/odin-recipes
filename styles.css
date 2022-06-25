@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 550px;
+}
+
+h1 {
+  color: maroon;
+}
+
+ul {
+  width: 200px;
+  margin: 0 auto;
+}
