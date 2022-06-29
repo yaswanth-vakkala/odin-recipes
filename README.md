@@ -5,4 +5,4 @@ A basic website made with html and css that let users view various recipes for f
 
 Live Demo Link:
 
-https://yrx13.github.io/odin-recipes/
+https://yaswanth-vakkala.github.io/odin-recipes/
