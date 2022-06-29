@@ -17,3 +17,7 @@ p, ul, ol {
 ol {
     margin-bottom: 10px;
 }
+
+a{
+    margin-left: 5px;
+}
